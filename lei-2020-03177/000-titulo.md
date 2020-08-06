@@ -1,0 +1,2 @@
+# LEI N° 3.177/2020 EMENTA: Institui a Política Municipal de Sanitização em Santa Cruz do Capibaribe, para conter a transmissão de doenças infectocontagiosas.
+A MESA DIRETORA DA CÂMARA DE VEREADORES DE SANTA CRUZ DO CAPIBARIBE, ESTADO DE PERNAMBUCO, no uso das suas atribuições legais, faz saber que o Poder Legislativo aprovou a seguinte Lei, gerada a partir do Projeto de Lei 041/2020, de autoria da Exma. Sra. Vereadora Jéssyca Mônica de Lima Cavalcanti:
