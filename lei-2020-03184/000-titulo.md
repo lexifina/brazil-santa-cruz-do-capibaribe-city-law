@@ -1,0 +1,2 @@
+# LEI N° 3.184/2020 EMENTA: Dispõe sobre a proibição de acendimento de fogueiras enquanto perdurar o combate ao COVID-19 e dá outras providências.
+A MESA DIRETORA DA CÂMARA DE VEREADORES DE SANTA CRUZ DO CAPIBARIBE, ESTADO DE PERNAMBUCO, no uso das suas atribuições legais, faz saber que o Poder Legislativo aprovou a seguinte Lei, gerada a partir do Projeto de Lei 039/2020, de autoria da Exma. Sra. Vereadora Jéssyca Mônica de Lima Cavalcanti:
