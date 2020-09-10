@@ -1,0 +1,2 @@
+# LEI N° 3.181/2020 EMENTA: Dispõe sobre a Cassação do Alvará de Funcionamento de Empresas e Postos de Combustíveis estabelecidos no âmbito do Município de Santa Cruz do Capibaribe, que revenderem combustíveis adulterados e dá outras Providências.
+A MESA DIRETORA DA CÂMARA DE VEREADORES DE SANTA CRUZ DO CAPIBARIBE, ESTADO DE PERNAMBUCO, no uso das suas atribuições legais, faz saber que o Poder Legislativo aprovou a seguinte Lei, gerada a partir do Projeto de Lei 014/2020, de autoria do Exmo. Sr. Vereador Marlos Melo da Costa:
