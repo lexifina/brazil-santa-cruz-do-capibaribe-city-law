@@ -1,0 +1,2 @@
+# LEI N° 3.476/2022 Que dispõe sobre a exigência de implantação de Banheiros Químicos em eventos promovidos em via pública nesta cidade e dá outras providências.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE SANTA CRUZ DO CAPIBARIBE, ESTADO DE PERNAMBUCO, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele PROMULGA a seguinte Lei, gerada a partir do Projeto de Lei 65/2021-Leg., de autoria do Exmo. Vereador José Ailton Oliveira Borges:
