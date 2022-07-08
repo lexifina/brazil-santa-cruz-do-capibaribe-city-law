@@ -1,0 +1,2 @@
+# LEI N° 3.477/2022 Dispõe sobre a obrigatoriedade da análise do saneamento nas ruas antes de serem pavimentadas com qualquer natureza de matéria-prima.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE SANTA CRUZ DO CAPIBARIBE, ESTADO DE PERNAMBUCO, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele PROMULGA a seguinte Lei, gerada a partir do Projeto de Lei 109/2021-Leg., de autoria do Exmo. Vereador José Climério Neto:
