@@ -1,0 +1,2 @@
+# LEI N° 3.478/2022 Dispõe sobre a obrigatoriedade de inclusão de alimentos da agricultura familiar, preferencialmente de produção com base agroecológica ou orgânica, na alimentação fornecida aos pacientes dos hospitais da rede pública de Santa Cruz do Capibaribe.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE SANTA CRUZ DO CAPIBARIBE, ESTADO DE PERNAMBUCO, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele PROMULGA a seguinte Lei, gerada a partir do Projeto de Lei 269/2021-Leg., de autoria do Exmo. Vereador Emanuel Souza Ramos:
