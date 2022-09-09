@@ -1,0 +1,2 @@
+# LEI N° 3.495/2022 Implementa a obrigatoriedade de capacitação dos professores da rede de ensino publica ou privada para atuação na promoção da igualdade racial, no âmbito do município de Santa Cruz do Capibaribe/PE, e dá outras providencias.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE SANTA CRUZ DO CAPIBARIBE, ESTADO DE PERNAMBUCO, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele PROMULGA a seguinte Lei, gerada a partir do Projeto de Lei 09/2022-Leg., de autoria do Exmo. Vereador Julio César Gomes de Oliveira:
