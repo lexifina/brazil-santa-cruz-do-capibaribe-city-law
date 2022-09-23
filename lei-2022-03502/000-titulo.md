@@ -1,0 +1,2 @@
+# LEI N° 3.502/2022 Estabelece Critérios para a Promoção da Acessibilidade das Pessoas com Transtorno do Espectro Autista - TEA Reserva mínima de 1 (uma) Vaga nos Estacionamentos de veículos em áreas Pública no Município de Santa Cruz do Capibaribe e dá outras providências.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE SANTA CRUZ DO CAPIBARIBE, ESTADO DE PERNAMBUCO, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele PROMULGA a seguinte Lei, gerada a partir do Projeto de Lei 14/2022-Leg., de autoria do Exmo. Vereador José Ademir Pereira:
