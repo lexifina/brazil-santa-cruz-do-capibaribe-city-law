@@ -1,0 +1,2 @@
+# LEI N° 3.498/2022 Institui o programa Licitação Sustentável, no âmbito do Município de Santa Cruz do Capibaribe e dá outras providências.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE SANTA CRUZ DO CAPIBARIBE, ESTADO DE PERNAMBUCO, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele PROMULGA a seguinte Lei, gerada a partir do Projeto de Lei 281/2021-Leg., de autoria do Exmo. Vereador Emanuel Souza Ramos:
