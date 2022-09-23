@@ -1,0 +1,2 @@
+# LEI N° 3.499/2022 Autoriza o Poder Executivo a Criar o Conselho Municipal dos Direitos da População LGBTQIA+ em Santa Cruz do Capibaribe e dá outras providências.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE SANTA CRUZ DO CAPIBARIBE, ESTADO DE PERNAMBUCO, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele PROMULGA a seguinte Lei, gerada a partir do Projeto de Lei 293/2021-Leg., de autoria da Exma. Vereadora Jéssyca Mônica de Lima Cavalcanti:
