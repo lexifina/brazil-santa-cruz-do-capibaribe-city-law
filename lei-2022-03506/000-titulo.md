@@ -1,0 +1,2 @@
+# LEI N° 3.506/2022 Denomina nome de Rua Isaque Teodoro Aragão (Bibiu de Nicolau ou Bibiu Aragão) em nosso município e dá outras providências.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE SANTA CRUZ DO CAPIBARIBE, ESTADO DE PERNAMBUCO, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele PROMULGA a seguinte Lei, gerada a partir do Projeto de Lei 27/2022-Leg., de autoria da Exma. Vereadora Jéssyca Mônica de Lima Cavalcanti:
