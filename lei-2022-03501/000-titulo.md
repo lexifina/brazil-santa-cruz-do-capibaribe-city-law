@@ -1,0 +1,2 @@
+# LEI N° 3.501/2022 Dispõe sobre o Programa de Turismo Educativo para os alunos da Rede Municipal de Ensino, acrescenta artigos à Lei nº 2.609/2017 e dá outras providências.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE SANTA CRUZ DO CAPIBARIBE, ESTADO DE PERNAMBUCO, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele PROMULGA a seguinte Lei, gerada a partir do Projeto de Lei 295/2021-Leg., de autoria do Exmo. Vereador Flávio Humberto Pontes da Silva:
