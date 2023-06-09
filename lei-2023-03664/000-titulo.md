@@ -1,0 +1,2 @@
+# LEI N° 3.664/2023 Denomina nome de Rua Maria das Dôres Gonçalves dos Anjos no Município de Santa Cruz do Capibaribe, Pernambuco e dá outras providências.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE SANTA CRUZ DO CAPIBARIBE, ESTADO DE PERNAMBUCO, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele PROMULGA a seguinte Lei, gerada a partir do Projeto de Lei nº 38/2023, de autoria do Exmo. Vereador JOSÉ ADEMIR PEREIRA.
