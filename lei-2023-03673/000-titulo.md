@@ -1,0 +1,2 @@
+# LEI N° 3.673/2023 Denomina nome de Rua INÁCIO PACA DA SILVA (SEU SABÃO), a Rua Projeta nº 22, Cód. Log. 01358-7, localizada no Loteamento Residencial Cruzeiro, Bairro da Palestina, em nosso município e dá outras providências.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE SANTA CRUZ DO CAPIBARIBE, ESTADO DE PERNAMBUCO, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele PROMULGA a seguinte Lei, gerada a partir do Projeto de Lei nº 23/2023, de autoria do Exmo. Vereador JOSÉ VANDO BRUNA.
