@@ -1,0 +1,2 @@
+# LEI N° 3.666/2023 Denomina nome de Rua JOSÉ DE LIRA BARROS (ZÉ PRETO DOS CALÇADOS), a Rua Projeta nº 10, Cód. Log. 01354-4, localizada no Loteamento Residencial Cruzeiro, Bairro da Palestina, em nosso município e dá outras providências.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE SANTA CRUZ DO CAPIBARIBE, ESTADO DE PERNAMBUCO, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele PROMULGA a seguinte Lei, gerada a partir do Projeto de Lei nº 25/2023, de autoria do Exmo. Vereador FLÁVIO HUMBERTO PONTES DA SILVA.
