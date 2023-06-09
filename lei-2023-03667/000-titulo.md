@@ -1,0 +1,2 @@
+# LEI N° 3.667/2023 Denomina nome de Rua PEDRO DA SILVA NEVES, a Rua Projeta nº 11, Cód. Log. 01355-2, localizada no Loteamento Residencial Cruzeiro, Bairro da Palestina, em nosso município e dá outras providências.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE SANTA CRUZ DO CAPIBARIBE, ESTADO DE PERNAMBUCO, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele PROMULGA a seguinte Lei, gerada a partir do Projeto de Lei nº 24/2023, de autoria do Exmo. Vereador FLÁVIO HUMBERTO PONTES DA SILVA.
