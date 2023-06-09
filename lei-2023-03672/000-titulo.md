@@ -1,0 +1,2 @@
+# LEI N° 3.672/2023 DENOMINA NOME DO BINARIO DA MODA DULCINA GOMES FEITOSA (CIDA FEITOSA) NO MUNICÍPIO DE SANTA CRUZ DO CAPIBARIBE-PE E DA OUTRAS PROVIDÊNCIAS.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE SANTA CRUZ DO CAPIBARIBE, ESTADO DE PERNAMBUCO, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele PROMULGA a seguinte Lei, gerada a partir do Projeto de Lei nº 179/2022, de autoria do Exmo. Vereador JOSÉ CARLOS DA SILVA.
