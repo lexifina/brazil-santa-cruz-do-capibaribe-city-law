@@ -1,0 +1,2 @@
+# LEI N° 3.745/2023 Autoriza que a rede municipal de saúde e assistência social disponibilize avaliação psicológica aos alunos da rede municipal de ensino no início de cada ano letivo e a cada semestre.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE SANTA CRUZ DO CAPIBARIBE, ESTADO DE PERNAMBUCO, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele PROMULGA a seguinte Lei, gerada a partir do Projeto de Lei nº 79/2023, de autoria do Exmo. Vereador NAILSON RAMOS DA SILVA.
