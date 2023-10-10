@@ -1,0 +1,2 @@
+# LEI N° 3.744/2023 Dispõe sobre a criação do "Programa Boa Noite PET" no âmbito no Município de Santa Cruz do Capibaribe e dá outras providências.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE SANTA CRUZ DO CAPIBARIBE, ESTADO DE PERNAMBUCO, no uso das suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele PROMULGA a seguinte Lei, gerada a partir do Projeto de Lei nº 06/2023, de autoria da Exma. Vereadora Rozângela Maria dos Santos.
