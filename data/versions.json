@@ -1,0 +1,49 @@
+{
+ "country": "BR-PE-SANTA-CRUZ-DO-CAPIBARIBE",
+ "acts": [
+  {
+   "slug": "lei-organica",
+   "short": "LOM-Santa-Cruz-do-Capibaribe",
+   "title": "Lei Orgânica do Município de Santa Cruz do Capibaribe",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/4436",
+   "versions": [
+    {
+     "from": "1990-04-02",
+     "units": 128,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/ta/608/text/vigencia/0,1990-04-02,1994-03-14:3ldLdSu_Z-pdMfaT59TfYSwZpcs/",
+     "sha256": "3ef32833a058692192a9f503f0e00bf9c5c895588ab289a521c2f469cacd9102"
+    },
+    {
+     "from": "1994-03-15",
+     "units": 128,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/ta/608/text/vigencia/626,1994-03-15,2006-08-03:-1WojyZr-r83yQ5SkwTr_3hGfqU/",
+     "sha256": "a17cc821fc3285d3bad6c803a4330c8efb4c6f1527cbef78de0abad35487f53f"
+    },
+    {
+     "from": "2006-08-04",
+     "units": 128,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/ta/608/text/vigencia/623,2006-08-04,2011-05-05:iPnRd2FvTgbVIHbYZKHpYTO5hwU/",
+     "sha256": "1d5ecd93d64b55665a18358149a416bf9d76fa132dc3af784cd248d3f14ef005"
+    },
+    {
+     "from": "2011-05-06",
+     "units": 128,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/ta/608/text/vigencia/625,2011-05-06,2011-07-24:LPU2z8NdX788eWiWO2DxNvphqNI/",
+     "sha256": "f60f76cbf47f1008ad0931ee58e8023a86ce8bee29cad6400a306717cf6d51e4"
+    },
+    {
+     "from": "2011-07-25",
+     "units": 128,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/ta/608/text/vigencia/857,2011-07-25,2018-02-28:nBu3azuqN7wCFKWqF3XcNA7iU5A/",
+     "sha256": "aa313bbd1e9f2d647e3b76052c352e9a395292ca67045af4fbdeb6123feb877e"
+    },
+    {
+     "from": "2018-03-01",
+     "units": 128,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/4436",
+     "sha256": "848336bf583b1df98f44180f35fe6f527ab6155acb1f097a9ed9c70088b5e5ca"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+{
+  "path": "br-pe-santa-cruz-do-capibaribe",
+  "code": "BR-PE-SANTA-CRUZ-DO-CAPIBARIBE",
+  "name": "Santa Cruz do Capibaribe (city)",
+  "level": "municipality",
+  "parent": "br-pe",
+  "repo": "https://github.com/lexifina/brazil-santa-cruz-do-capibaribe-city-law",
+  "build": "built: the law of Santa Cruz do Capibaribe from the Câmara Municipal's SAPL"
+}
