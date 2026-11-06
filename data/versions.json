@@ -548,6 +548,62 @@
      "sha256": "78c174a027a54b88d13e3c50b1e235a11a3fbf122252b70d93885ff8e9c3f209"
     }
    ]
+  },
+  {
+   "slug": "lei-2020-03197",
+   "short": "Lei 3197/2020",
+   "title": "Lei nº 3.197, de 19 de novembro de 2020",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/1059",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 8,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2020/1059/lei_3197-2020.pdf",
+     "sha256": "bf45b99055df2148f2b728093abc1b3be90a7c47f15c72a43fe51144e61d532e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03184",
+   "short": "Lei 3184/2020",
+   "title": "Lei nº 3.184, de 10 de setembro de 2020",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/1073",
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 5,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2020/1073/lei_3184-2020.pdf",
+     "sha256": "a01134d5a2b36db46992b524f6a9c3b48abe58dc37f6d0bc142d7eaf645a5f58"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03181",
+   "short": "Lei 3181/2020",
+   "title": "Lei nº 3.181, de 10 de setembro de 2020",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/1076",
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 5,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2020/1076/lei_3181-2020.pdf",
+     "sha256": "9e145adaef174e081d0312d6739b552f6ad890a97003075236697a0eabad39a5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-03177",
+   "short": "Lei 3177/2020",
+   "title": "Lei nº 3.177, de 6 de agosto de 2020",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/1078",
+   "versions": [
+    {
+     "from": "2020-08-06",
+     "units": 9,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2020/1078/lei_3177-2020.pdf",
+     "sha256": "963411eaadfacd7ec82c147319d2712dcac247188b5a1ee6e09ce3691ac064ba"
+    }
+   ]
   }
  ]
 }
