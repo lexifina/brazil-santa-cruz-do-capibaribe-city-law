@@ -100,6 +100,132 @@
      "sha256": "e6eac8765e5466881fbdd3246ad8e6b998d61fcee31ee40341b880bfd210dcd0"
     }
    ]
+  },
+  {
+   "slug": "lei-2023-03713",
+   "short": "Lei 3713/2023",
+   "title": "Lei nº 3.713, de 9 de agosto de 2023",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/6048",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 5,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2023/6048/lei_3.713-2023-_institui_o_programa_municipal_de_divulgacao_prevencao_e_tratamento_do_ceratocone..pdf",
+     "sha256": "8fde54b8cc7761f4d21a01af28e730f20518f20af9d198d062c5e0d1ae2cb82e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-03674",
+   "short": "Lei 3674/2023",
+   "title": "Lei nº 3.674, de 12 de junho de 2023",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/5795",
+   "versions": [
+    {
+     "from": "2023-06-12",
+     "units": 13,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2023/5795/lei_3.674-2023-_institui_o_programa_farma_pet_que_dispoe_acerca_do_recebimento_de_doacoes_coleta_reaproveitamento_selecao_armazenamento_distribuicao_gratuita..pdf",
+     "sha256": "6f29ad190b222a1fa6785eef5fc3df3493146de2cffaaa8c1560b1f2db1157e8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-03673",
+   "short": "Lei 3673/2023",
+   "title": "Lei nº 3.673, de 9 de junho de 2023",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/5794",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 4,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2023/5794/lei_3.673-2023-_denomina_nome_de_rua_inacio_paca_da_silva_-_seu_sabao_a_rua_projeta_n_22..pdf",
+     "sha256": "8bf1577ce104f50019b5537a5efae1eac10188917f5c5af17d8cd1f9a88e7d55"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-03672",
+   "short": "Lei 3672/2023",
+   "title": "Lei nº 3.672, de 9 de junho de 2023",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/5787",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 4,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2023/5787/lei_3.672-2023-_denomina_nome_do_binario_da_moda_dulcina_gomes_feitosa_-_cida_feitosa_no_municipio_de_santa_cruz_do_capibaribe-pe_e_da_outras_providencias..pdf",
+     "sha256": "6c6bb7dcd134c6e4ae32d8ad07b20848c252c79c27634548dad9978c4b5518bf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-03671",
+   "short": "Lei 3671/2023",
+   "title": "Lei nº 3.671, de 9 de junho de 2023",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/5785",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 4,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2023/5785/lei_3.671-2023-_denomina_nome_de_rua_maria_olinda_xavier_a_rua_projeta_n_26_cod._log._01360-9_localizada_no_loteamento_residencial_cruzeiro_bairro_da_palestina..pdf",
+     "sha256": "8703edc2795e91c6179e1ac8195862930bf685e73cd0a5aaec932af6ae85b162"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-03670",
+   "short": "Lei 3670/2023",
+   "title": "Lei nº 3.670, de 9 de junho de 2023",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/5784",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 4,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2023/5784/lei_3.670-2023-_denomina_nome_de_rua_jose_ivanildo_goncalves_filho_a_rua_projeta_n_17..pdf",
+     "sha256": "cd64d2f881b03abf1c939579b91a7d1c90da5d984cc23126d4248e114d5c8b46"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-03669",
+   "short": "Lei 3669/2023",
+   "title": "Lei nº 3.669, de 9 de junho de 2023",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/5783",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 4,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2023/5783/lei_3.669-2023-_denomina_nome_de_rua_carlos_antonio_maia_a_rua_projeta_n_15_cod._log._01356-0_localizada_no_loteamento_residencial_cruzeiro_bairro_da_palestina..pdf",
+     "sha256": "8caeb9bc21b6cc74654b8fb5d3bbdab0705b3e3d5f297310d061bcb9661e3ef8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-03668",
+   "short": "Lei 3668/2023",
+   "title": "Lei nº 3.668, de 9 de junho de 2023",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/5782",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 4,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2023/5782/lei_3.668-2023-_denomina_nome_de_rua_antonio_cirilo_leite_a_rua_projeta_n_25_cod._log._01359-_5..pdf",
+     "sha256": "da538af14627a4681b56d487b478eda6382f3c50d3ba5896acd53b9f9a30df6e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-03667",
+   "short": "Lei 3667/2023",
+   "title": "Lei nº 3.667, de 9 de junho de 2023",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/5780",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 4,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2023/5780/lei_3.667-2023-_denomina_nome_de_rua_pedro_da_silva_neves_a_rua_projeta_n_11_cod._log._01355-2..pdf",
+     "sha256": "06d298d3e3810db08287cd31c79dffd78599b620df38c9d1527dd9acf9660bdb"
+    }
+   ]
   }
  ]
 }
