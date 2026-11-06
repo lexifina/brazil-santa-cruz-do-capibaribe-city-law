@@ -282,6 +282,20 @@
      "sha256": "a609e36c0cf8b2a938d38df7937ac44c91f088395c06a181d29fa9c5345dea56"
     }
    ]
+  },
+  {
+   "slug": "lei-2022-03582",
+   "short": "Lei 3582/2022",
+   "title": "Lei nº 3.582, de 7 de dezembro de 2022",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/4397",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 6,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2022/4397/lei_3.582-2022_-_dispoe_sobre_a_presenca_continua_de_profissionais_de_educacao_fisica_orientador.pdf",
+     "sha256": "35604234be877abd28a98cade8e2afb07a9ff014a50773f9c732cfe60934130e"
+    }
+   ]
   }
  ]
 }
