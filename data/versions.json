@@ -44,6 +44,34 @@
      "sha256": "848336bf583b1df98f44180f35fe6f527ab6155acb1f097a9ed9c70088b5e5ca"
     }
    ]
+  },
+  {
+   "slug": "lei-2024-03810",
+   "short": "Lei 3810/2024",
+   "title": "Lei nº 3.810, de 19 de março de 2024",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/6313",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 10,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2024/6313/lei_3.810-2024-_dispoe_sobre_a_criacao_do_projeto_de_promocao_da_saude_mental_dos_profissionais_da_saude_do_municipio_de_santa_cruz_do_capibaribe_e_da_outras_providencias..pdf",
+     "sha256": "6fdfac46c08e686600b42811fdfd44bcc35714814c1abe07f8b316905f4103ec"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03809",
+   "short": "Lei 3809/2024",
+   "title": "Lei nº 3.809, de 14 de março de 2024",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/6312",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 4,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2024/6312/lei_3.809-2024-_altera_o_art._1o_e_acrescenta_o_art._3o_da_lei_no_3.4902022_que_institui_no_calendario_oficial_de_santa_cruz_do_capibaribe_o_dia_municipal_do_circulo_de_oracao..pdf",
+     "sha256": "7e122f26fd022b50707ebd81189b88b3ec6c3d5756c5f8b4546bca8626f3e9c6"
+    }
+   ]
   }
  ]
 }

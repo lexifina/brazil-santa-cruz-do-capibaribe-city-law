@@ -1,12 +1,13 @@
 # How this repository was made (Santa Cruz do Capibaribe)
 
-This file is written by the build on 2026-11-05, the day the source data was retrieved.
+This file is written by the build on 2026-11-06, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Câmara Municipal de Santa Cruz do Capibaribe, SAPL: Texto Articulado of the Lei Orgânica, one view per period of vigência | <https://sapl.santacruzdocapibaribe.pe.leg.br/norma/4436> | 2026-11-05 | Text: Câmara Municipal de Santa Cruz do Capibaribe, SAPL (Sistema de Apoio ao Processo Legislativo), Lei Orgânica do Município de Santa Cruz do Capibaribe, sapl.santacruzdocapibaribe.pe.leg.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Município is authoritative. |
+| Câmara Municipal de Santa Cruz do Capibaribe, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.santacruzdocapibaribe.pe.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Santa Cruz do Capibaribe, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.santacruzdocapibaribe.pe.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -15,20 +16,22 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
 | `lei-organica` | Lei Orgânica do Município de Santa Cruz do Capibaribe | 6 | 1990-04-02 to 2018-03-01 |
+| `lei-2024-03810` | Lei nº 3.810, de 19 de março de 2024 | 1 | 2024-03-19 to 2024-03-19 |
+| `lei-2024-03809` | Lei nº 3.809, de 14 de março de 2024 | 1 | 2024-03-14 to 2024-03-14 |
 
-The build made 6 commits:
+The build made 8 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1 | first version of an act |
+| 3 | first version of an act |
 | 5 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
+- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-06.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 6 laws in the record.
-- 12 tags.
+- 8 laws in the record.
+- 16 tags.
 
 ## Dates
 
@@ -40,7 +43,7 @@ When a law gives no date of its own, the default rule applies: The Lei Orgânica
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `defea1539d84cb8e3e3c6dce1492436fa49644fadc39bdf45c2a3d1a455db1fc` (184670 bytes).
+- Corpus: sha256 `bc80efaf8d7933b629b07a7695c8027dcb3106d5df4afe3809477dc74cd67113` (195607 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -56,6 +59,9 @@ No second build of this corpus has been compared yet.
 - When the text SAPL shows as in force now (the norma page, with its "Vigência a partir de" day and "Dada por" act) starts after the last view, it is the last version. Where SAPL starts a period without naming an amending act, the units that changed are left uncredited and committed as publisher commits, not guessed.
 - Each provision is one line: its label ("Art. 1º.", "§ 1º", "XV –") followed by its text; table rows are one line each, cells separated by " | ". Notes SAPL keeps under a provision or links into it ("Inclusão feita pelo ..."), provisions it marks as superseded, the amending acts own blocks it shows inside the text and the amendment notes typed into the text ("(Redação dada pela Emenda ...)", "(Incluído pela ...)") are left out.
 - One file per Art.; headings stand above the first article under them; the "Ato das Disposições Orgânicas Transitórias", numbered from 1 again, is adt-*. "000-titulo" holds the preamble.
+- Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
+- Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
+- The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
 
 ## What AI did and did not do
 
@@ -67,3 +73,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the SAPL pages.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
