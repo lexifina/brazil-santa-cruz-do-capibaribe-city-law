@@ -226,6 +226,62 @@
      "sha256": "06d298d3e3810db08287cd31c79dffd78599b620df38c9d1527dd9acf9660bdb"
     }
    ]
+  },
+  {
+   "slug": "lei-2023-03666",
+   "short": "Lei 3666/2023",
+   "title": "Lei nº 3.666, de 9 de junho de 2023",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/5779",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 4,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2023/5779/lei_3.666-2023-_denomina_nome_de_rua_jose_de_lira_barros_-_ze_preto_dos_calcados_a_rua_projeta_no_10_cod._log._01354-4..pdf",
+     "sha256": "9e4715662d8a53902161788479d950385bc7654dba555bb36d24d67dc3fcb7e5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-03665",
+   "short": "Lei 3665/2023",
+   "title": "Lei nº 3.665, de 9 de junho de 2023",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/5778",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 4,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2023/5778/lei_3.665-2023-_denomina_nome_de_rua_joseilton_ramos_a_rua_projetada_n_06_cod._log._01352-8_localizada_no_loteamento_residencial_cruzeiro_bairro_da_palestina..pdf",
+     "sha256": "45ef0b2b0afe198c177e6773c02463a54716b7f72a85afdfd2d284b0779515c8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-03664",
+   "short": "Lei 3664/2023",
+   "title": "Lei nº 3.664, de 9 de junho de 2023",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/5775",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 4,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2023/5775/lei_3.664-2023-_denomina_nome_de_rua_maria_das_dores_goncalves_dos_anjos_no_municipio_de_santa_cruz_do_capibaribe_pernambuco_e_da_outras_providencias..pdf",
+     "sha256": "f251533ccaa8574430eb0dbd534ef51d4fd65cdf5e510f37be492add57a662a4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-03663",
+   "short": "Lei 3663/2023",
+   "title": "Lei nº 3.663, de 9 de junho de 2023",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/5774",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 4,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2023/5774/lei_3.663-2023-_denomina_nome_de_rua_bernadete_maria_da_silva_a_rua_projetada_n._08..pdf",
+     "sha256": "a609e36c0cf8b2a938d38df7937ac44c91f088395c06a181d29fa9c5345dea56"
+    }
+   ]
   }
  ]
 }
