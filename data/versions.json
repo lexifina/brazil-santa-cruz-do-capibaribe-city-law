@@ -296,6 +296,20 @@
      "sha256": "35604234be877abd28a98cade8e2afb07a9ff014a50773f9c732cfe60934130e"
     }
    ]
+  },
+  {
+   "slug": "lei-2022-03530",
+   "short": "Lei 3530/2022",
+   "title": "Lei nº 3.530, de 25 de outubro de 2022",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/3591",
+   "versions": [
+    {
+     "from": "2022-10-25",
+     "units": 10,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2022/3591/lei_3.530-2022_-_institui_o_programa_de_fornecimento_gratuito_de_fraldas_descartaveis_aos_idosos_as_criancas_e_aos_portadores_de_necessidade_especial.pdf",
+     "sha256": "228e945ea25686a68fa578a39e7cb53c9fd633ced7bb04cf391fee3945a9f95e"
+    }
+   ]
   }
  ]
 }
