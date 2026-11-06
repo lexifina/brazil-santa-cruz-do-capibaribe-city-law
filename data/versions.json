@@ -534,6 +534,20 @@
      "sha256": "9441cc27c1762d0224a207f4bb3858423e73516323b436d8702994e3087fc494"
     }
    ]
+  },
+  {
+   "slug": "lei-2022-03413",
+   "short": "Lei 3413/2022",
+   "title": "Lei nº 3.413, de 16 de maio de 2022",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/1913",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 8,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2022/1913/lei_3.413-2022_-estabelece_assistencia_tecnica_em_arquitetura_urbanismo_e_engenharia_para_projeto_e_a_construcao_de_habitacao_de_interesse_social.pdf",
+     "sha256": "78c174a027a54b88d13e3c50b1e235a11a3fbf122252b70d93885ff8e9c3f209"
+    }
+   ]
   }
  ]
 }
