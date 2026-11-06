@@ -310,6 +310,230 @@
      "sha256": "228e945ea25686a68fa578a39e7cb53c9fd633ced7bb04cf391fee3945a9f95e"
     }
    ]
+  },
+  {
+   "slug": "lei-2022-03509",
+   "short": "Lei 3509/2022",
+   "title": "Lei nº 3.509, de 23 de setembro de 2022",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/3253",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 4,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2022/3253/lei_3.509-2022-_denomina_nome_de_rua_josefa_maria_miranda_de_oliveira_em_nosso_municipio_e_da_outras_providencias..pdf",
+     "sha256": "27719e03e0b1213d71a484c5e1ee02f98583f88bc55dcd96984b07f98bf04f18"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03508",
+   "short": "Lei 3508/2022",
+   "title": "Lei nº 3.508, de 23 de setembro de 2022",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/3252",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 4,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2022/3252/lei_3.508-2022_-_denomina_nome_de_rua_severino_barros_da_silva_seu_biu_em_nosso_municipio_e_da_outras_providencias..pdf",
+     "sha256": "0048efc5f691ab25e8496db14d9aa781a5993295881849463f7d43c2abf8da7f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03507",
+   "short": "Lei 3507/2022",
+   "title": "Lei nº 3.507, de 23 de setembro de 2022",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/3251",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 4,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2022/3251/lei_3.507-2022_-_denomina_nome_de_rua_manoel_rosa_de_lima_mane_dandin_em_nosso_municipio_e_da_outras_providencias..pdf",
+     "sha256": "3f24e29c55c1af7cd763fc1d42927652598b59ddf00d36df2ecd5c868258e908"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03506",
+   "short": "Lei 3506/2022",
+   "title": "Lei nº 3.506, de 23 de setembro de 2022",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/3250",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 4,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2022/3250/lei_3.506-2022_-_denomina_nome_de_rua_isaque_teodoro_aragao_bibiu_de_nicolau_ou_bibiu_aragao_em_nosso_municipio_e_da_outras_providencias..pdf",
+     "sha256": "2aaa990fc40af4c3cb22947c31231c85327b7a0ac8cc81aa0a8daf35aa4d4cdd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03505",
+   "short": "Lei 3505/2022",
+   "title": "Lei nº 3.505, de 23 de setembro de 2022",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/3249",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 12,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2022/3249/lei_3.505-2022_-_.pdf",
+     "sha256": "b82e03d90ca50ed8c5fc4ef203e11f0fbc84c1535c3451562aae0399e6f21f3c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03502",
+   "short": "Lei 3502/2022",
+   "title": "Lei nº 3.502, de 23 de setembro de 2022",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/3246",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 7,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2022/3246/lei_3.502-2022.pdf",
+     "sha256": "5431cc52b48ae2438b58e2ea5955481e40b5ab874e2394ea64853f7e35fcf1a9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03501",
+   "short": "Lei 3501/2022",
+   "title": "Lei nº 3.501, de 23 de setembro de 2022",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/3245",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 3,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2022/3245/lei_3.501-2022_.pdf",
+     "sha256": "90f02f70c8be0ef48e7e563230d57520a91ed8499631eb036b96c5156c18900c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03500",
+   "short": "Lei 3500/2022",
+   "title": "Lei nº 3.500, de 23 de setembro de 2022",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/3244",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 5,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2022/3244/lei_3.500-2022_-_dispoe_sobre_a_responsabilidade_de_os_condominios_residenciais_do_municipio.pdf",
+     "sha256": "a6d709a586b8e57642e93976bd5994827bc4a65df22d7b3b79eac41327320399"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03499",
+   "short": "Lei 3499/2022",
+   "title": "Lei nº 3.499, de 23 de setembro de 2022",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/3243",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 11,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2022/3243/lei_3.499-2022_-_autoriza_o_poder_executivo_a_criar_o_conselho_municipal_dos_direitos_da_populacao_lgbtqia_em_santa_cruz_do_capibaribe_e_da_outras_providencias..pdf",
+     "sha256": "ea24188c47addd86a5c8a4b6cf5679f9c819bb6a8e0e4286102732262a3891fb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03498",
+   "short": "Lei 3498/2022",
+   "title": "Lei nº 3.498, de 23 de setembro de 2022",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/3242",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 16,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2022/3242/lei_3.498-2022_-_institui_o_programa_licitacao_sustentavel_no_ambito_do_municipio_de_santa_cruz_do_capibaribe_e_da_outras_providencias..pdf",
+     "sha256": "e314b298b28a0e7f369009a3fe56e4713103dc9475a3ce629e19c99fe7fb7295"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03497",
+   "short": "Lei 3497/2022",
+   "title": "Lei nº 3.497, de 23 de setembro de 2022",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/3241",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 6,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2022/3241/lei_3.497-2022_-_institui_a_campanha_permanente_de_conscientizacao_do_uso_saudavel_das_redes_sociais_e_combate_ao_cyberbullyng_e_da_outras_providencias..pdf",
+     "sha256": "41777bf7a7cbadb78d77b9473475c370490e13a68d2931aa0af02b1758e7e0e0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03496",
+   "short": "Lei 3496/2022",
+   "title": "Lei nº 3.496, de 13 de setembro de 2022",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/3191",
+   "versions": [
+    {
+     "from": "2022-09-13",
+     "units": 3,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2022/3191/lei_3.496-2022_-_altera_a_lei_municipal_no_3.386-2022_em_seu_artigo_3o_e_da_outras_providencias..pdf",
+     "sha256": "2fd93f3f4e24769c6c578cc84d3d547c21f30b8ea0d82fc5a4c8b83fdc381c63"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03495",
+   "short": "Lei 3495/2022",
+   "title": "Lei nº 3.495, de 9 de setembro de 2022",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/3190",
+   "versions": [
+    {
+     "from": "2022-09-09",
+     "units": 5,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2022/3190/lei_3.495-2022_-_implementa_a_obrigatoriedade_de_capacitacao_dos_professores_da_rede_de_ens.pdf",
+     "sha256": "f3da19bbdab9da2e07961512d77cb1895186efbd4ad8479ffc45d779f8efe261"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03478",
+   "short": "Lei 3478/2022",
+   "title": "Lei nº 3.478, de 8 de julho de 2022",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/1996",
+   "versions": [
+    {
+     "from": "2022-07-08",
+     "units": 12,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2022/1996/lei_3.478-2022_.pdf",
+     "sha256": "e40356b92ffca5fa7877338b5b32d34e790a55393052805d20a6cc59415254c7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03477",
+   "short": "Lei 3477/2022",
+   "title": "Lei nº 3.477, de 8 de julho de 2022",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/1995",
+   "versions": [
+    {
+     "from": "2022-07-08",
+     "units": 4,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2022/1995/lei_3.477-2022_-dispoe_sobre_a_obrigatoriedade_da_analise_do_saneamento_nas_ruas_antes_de_serem_pavimentadas_com_qualquer_natureza_de_materia-prima..pdf",
+     "sha256": "917af99c609870f94c8cc4d1a9ba8a93169dcfe80bb7dc979c359cfecfe7810c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03476",
+   "short": "Lei 3476/2022",
+   "title": "Lei nº 3.476, de 8 de julho de 2022",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/1994",
+   "versions": [
+    {
+     "from": "2022-07-08",
+     "units": 3,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2022/1994/lei_3.476-2022_-que_dispoe_sobre_a_exigencia_de_implantacao_de_banheiros_quimicos_em_eventos_promovidos_em_via_publica_nesta_cidade_e_da_outras_providencias.pdf",
+     "sha256": "9441cc27c1762d0224a207f4bb3858423e73516323b436d8702994e3087fc494"
+    }
+   ]
   }
  ]
 }
