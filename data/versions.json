@@ -72,6 +72,34 @@
      "sha256": "7e122f26fd022b50707ebd81189b88b3ec6c3d5756c5f8b4546bca8626f3e9c6"
     }
    ]
+  },
+  {
+   "slug": "lei-2023-03745",
+   "short": "Lei 3745/2023",
+   "title": "Lei nº 3.745, de 10 de outubro de 2023",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/6165",
+   "versions": [
+    {
+     "from": "2023-10-10",
+     "units": 5,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2023/6165/lei_3.745-2023-_autoriza_que_a_rede_municipal_de_saude_e_assistencia_social_disponibilize_avaliacao_psicologica_aos_alunos_da_rede_municipal_de_ensino.pdf",
+     "sha256": "6f3e85c243228f34eb1d10950337c0b0ccbcfc62c8aff88b50ac8005bd59016e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-03744",
+   "short": "Lei 3744/2023",
+   "title": "Lei nº 3.744, de 10 de outubro de 2023",
+   "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/norma/6164",
+   "versions": [
+    {
+     "from": "2023-10-10",
+     "units": 5,
+     "source_url": "https://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/normajuridica/2023/6164/lei_3.744-2023-_dispoe_sobre_a_criacao_do_programa_boa_noite_pet_no_ambito_no_municipio_de_santa_cruz_do_capibaribe_e_da_outras_providencias.pdf",
+     "sha256": "e6eac8765e5466881fbdd3246ad8e6b998d61fcee31ee40341b880bfd210dcd0"
+    }
+   ]
   }
  ]
 }
